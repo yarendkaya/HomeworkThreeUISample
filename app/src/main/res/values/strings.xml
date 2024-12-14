@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Food Recipe</string>
+    <string name="categories">Categories</string>
+    <string name="populer_recipes">Popular Recipes</string>
+    <string name="recipes_week">Recipes of the Week</string>
+    <string name="seafood"> Seafood Fried Rice</string>
+    <string name="caprise">Caprese Salad</string>
+    <string name="grilled_salmon"> Grilled Salmon</string>
+    <string name="vegetable">Vegetable Stir-Fry</string>
+    <string name="explanation">A healthy and delicious recipe.</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="dessert">Dessert</string>
+
+</resources>

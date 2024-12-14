@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yemek Tarifleri</string>
+    <string name="categories">Kategoriler</string>
+    <string name="populer_recipes">Popüler Tarifler</string>
+    <string name="recipes_week">Haftanın Tarifleri</string>
+    <string name="seafood"> Deniz Mahsullü Pilav</string>
+    <string name="caprise">Caprese Salatası</string>
+    <string name="grilled_salmon"> Izgara Somon</string>
+    <string name="vegetable">Sebzeli Kavurma</string>
+    <string name="explanation">Sağlıklı ve lezzetli bir tarif.</string>
+    <string name="breakfast">Kahvaltı</string>
+    <string name="lunch">Öğlen Yemeği</string>
+    <string name="dinner">Akşam Yemeği</string>
+    <string name="dessert">Tatlı</string>
+</resources>
