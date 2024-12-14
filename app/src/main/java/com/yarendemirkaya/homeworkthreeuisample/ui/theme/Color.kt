@@ -23,6 +23,6 @@ val Black = Color(0xFF121212) // Koyu modun arka planı genellikle siyah veya ç
 val MainColumnDark = Color(0xFF423E30)
 
 val btnColor= Color(0xFF86570D)
-val weeksRecipe= Color(0xFFB29999)
+val weeksRecipe= Color(0xFFE1DCB5)
 
 val darkWeeksRecipe= Color(0x95F1BF77)

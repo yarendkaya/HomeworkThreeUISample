@@ -169,7 +169,7 @@ fun HomeScreen(darkTheme: Boolean = isSystemInDarkTheme()) {
                     1
                 )
                 {
-                    WeeksRecipe(stringResource(R.string.seafood), R.drawable.seafood, darkTheme)
+                    WeeksRecipe(stringResource(R.string.seafood), R.drawable.seafood,darkTheme)
                     Spacer(modifier = Modifier.height(16.dp))
                     WeeksRecipe(stringResource(R.string.grilled_salmon), R.drawable.grilled_salmon, darkTheme)
                 }
